@@ -7,7 +7,7 @@
 }
 body{
  background-color: #F5F4F0;
- width: 1280px;
+
 }
 #page{
    box-sizing: border-box;
@@ -95,6 +95,7 @@ ul li::marker {
  footer{
    text-align: center;
  }
+
 
 
 

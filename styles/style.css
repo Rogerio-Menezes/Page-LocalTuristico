@@ -1,18 +1,57 @@
+:root{
+ font-family: "Open Sans", serif;
+}
 body{
  background-color: #F5F4F0;
  width: 1280px;
 }
 #page{
    box-sizing: border-box;
-   margin: 88px 80px;
+   margin: 88px auto;
    width: 1120px;
-   padding: 0px;
+  
+}
+ h6{
+  color: #E1624F;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 22%;
+}
+
+h1{
+ color: #1B1B1B;
+ font-size: 32px;
+ line-height: 49%;
+ font-weight: bold;
+}
+
+#Busan p{
+   text-align: center;
+   font-style: italic;
+   font-size: 16px;
+}
+p{
+   color: #333333;
+   font-style: normal;
+}
+.divider {
+   width: 100%;
+   height: 1px;
+   margin: 36px 0;
+   background-color: #d9d9d9;
+  }
+
+
+h2{
+ font-size: 32px;
+ font-weight: bold;
 }
 
 img{
  border-radius: 28px;
  width: 100%;
 }
+
 
 
 
